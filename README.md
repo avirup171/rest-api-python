@@ -1,4 +1,6 @@
 # Building Backend Services using Python
 
-Buidl RESTful APIs with Python and Flask. This is a part of the youtube video.
+Most of the web applications follow a client server architecture. Essentiually a client communicates with the server through REST API calls. 
+In this repo, we see how python and the flask framework can be used to develop backend applications. 
 
+The Video of the tuitorial is available on YouTube: 
